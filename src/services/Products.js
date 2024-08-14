@@ -54,7 +54,7 @@ export const getFilterCategorieProducts = async (id) =>{
 
 export const getAllProducts = async () =>{
   try {
-    const response = await fetch(`${BaseURL}`);
+    const response = await fetch(`${BaseURL}products`);
     if (!response.ok) {
       throw new Error('Network response was not ok');
     }
