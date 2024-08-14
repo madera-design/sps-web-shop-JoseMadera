@@ -92,5 +92,5 @@ Este template proporciona una configuración mínima para hacer funcionar React 
 
 ## Actualmente, están disponibles dos plugins oficiales:
 
-@vitejs/plugin-react: Utiliza Babel para Fast Refresh.
-@vitejs/plugin-react-swc: Utiliza SWC para Fast Refresh.
+- @vitejs/plugin-react: Utiliza Babel para Fast Refresh.
+- @vitejs/plugin-react-swc: Utiliza SWC para Fast Refresh.
