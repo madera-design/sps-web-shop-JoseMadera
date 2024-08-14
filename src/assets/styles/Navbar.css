@@ -57,6 +57,9 @@
   border: 1px solid #a2a1a1;
   background-color: transparent;
 }
+.primary-button-icons:hover{
+  border: 1px solid #a2a1a1;
+}
 .bagde-cart{
   position: absolute;
   top: 0;

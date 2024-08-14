@@ -37,7 +37,7 @@ const Navbar = ({ categories }) => {
 
   return (
     <nav className="navbar">
-      <img src="/img/logo.png" alt="Logo" className="navbar-logo" />
+      <img src="/img/logoeagle.png" alt="Logo" className="navbar-logo" />
       <button className="navbar-toggler" type="button" onClick={() => document.getElementById('navbar-list').classList.toggle('active')}>
         <FontAwesomeIcon icon={faBars} />
       </button>
