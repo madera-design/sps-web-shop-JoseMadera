@@ -59,6 +59,7 @@ const Login = () => {
       >
         {({ isSubmitting }) => (
           <Form className="login-box">
+            <img className='login-logo' src="/img/logoSPS.png" alt="" />
             <h3>Iniciar sesión</h3>
             <div className="input-group">
               <label htmlFor="email">Correo:</label>
