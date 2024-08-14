@@ -83,14 +83,9 @@ Este proyecto es una aplicación web de carrito de compras desarrollada en React
 2. **Ejecución del proyecto**:
    npm run dev
 
-## Consideraciones Adicionales
-Manejo de Sesiones: Implementa un mecanismo para mantener la sesión del usuario (por ejemplo, almacenamiento en local o manejo de tokens).
-Responsividad: Asegúrate de que la aplicación sea completamente responsive y funcione bien en dispositivos móviles y de escritorio.
-Seguridad: Implementa prácticas de seguridad adecuadas para proteger la información del usuario y las interacciones con las APIs.
-Configuración de Vite para React
-Este template proporciona una configuración mínima para hacer funcionar React en Vite con HMR (Hot Module Replacement) y algunas reglas de ESLint.
 
 ## Actualmente, están disponibles dos plugins oficiales:
+Este template proporciona una configuración mínima para hacer funcionar React en Vite con HMR (Hot Module Replacement) y algunas reglas de ESLint.
 
 - @vitejs/plugin-react: Utiliza Babel para Fast Refresh.
 - @vitejs/plugin-react-swc: Utiliza SWC para Fast Refresh.
